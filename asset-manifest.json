@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/summersamba1/static/css/main.f7a160da.chunk.css",
+    "main.js": "/summersamba1/static/js/main.a6845229.chunk.js",
+    "main.js.map": "/summersamba1/static/js/main.a6845229.chunk.js.map",
+    "runtime-main.js": "/summersamba1/static/js/runtime-main.9364c733.js",
+    "runtime-main.js.map": "/summersamba1/static/js/runtime-main.9364c733.js.map",
+    "static/js/2.6617b313.chunk.js": "/summersamba1/static/js/2.6617b313.chunk.js",
+    "static/js/2.6617b313.chunk.js.map": "/summersamba1/static/js/2.6617b313.chunk.js.map",
+    "index.html": "/summersamba1/index.html",
+    "precache-manifest.087141a59854b25f783beb9fc75fe882.js": "/summersamba1/precache-manifest.087141a59854b25f783beb9fc75fe882.js",
+    "service-worker.js": "/summersamba1/service-worker.js",
+    "static/css/main.f7a160da.chunk.css.map": "/summersamba1/static/css/main.f7a160da.chunk.css.map",
+    "static/js/2.6617b313.chunk.js.LICENSE.txt": "/summersamba1/static/js/2.6617b313.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9364c733.js",
+    "static/js/2.6617b313.chunk.js",
+    "static/css/main.f7a160da.chunk.css",
+    "static/js/main.a6845229.chunk.js"
+  ]
+}
