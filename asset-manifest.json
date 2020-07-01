@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/summersamba1/static/css/main.f7a160da.chunk.css",
-    "main.js": "/summersamba1/static/js/main.a6845229.chunk.js",
-    "main.js.map": "/summersamba1/static/js/main.a6845229.chunk.js.map",
-    "runtime-main.js": "/summersamba1/static/js/runtime-main.9364c733.js",
-    "runtime-main.js.map": "/summersamba1/static/js/runtime-main.9364c733.js.map",
-    "static/js/2.6617b313.chunk.js": "/summersamba1/static/js/2.6617b313.chunk.js",
-    "static/js/2.6617b313.chunk.js.map": "/summersamba1/static/js/2.6617b313.chunk.js.map",
-    "index.html": "/summersamba1/index.html",
-    "precache-manifest.087141a59854b25f783beb9fc75fe882.js": "/summersamba1/precache-manifest.087141a59854b25f783beb9fc75fe882.js",
-    "service-worker.js": "/summersamba1/service-worker.js",
-    "static/css/main.f7a160da.chunk.css.map": "/summersamba1/static/css/main.f7a160da.chunk.css.map",
-    "static/js/2.6617b313.chunk.js.LICENSE.txt": "/summersamba1/static/js/2.6617b313.chunk.js.LICENSE.txt"
+    "main.css": "/samba-verao-aprox1/static/css/main.f7a160da.chunk.css",
+    "main.js": "/samba-verao-aprox1/static/js/main.757c786a.chunk.js",
+    "main.js.map": "/samba-verao-aprox1/static/js/main.757c786a.chunk.js.map",
+    "runtime-main.js": "/samba-verao-aprox1/static/js/runtime-main.c0a5e01b.js",
+    "runtime-main.js.map": "/samba-verao-aprox1/static/js/runtime-main.c0a5e01b.js.map",
+    "static/js/2.6617b313.chunk.js": "/samba-verao-aprox1/static/js/2.6617b313.chunk.js",
+    "static/js/2.6617b313.chunk.js.map": "/samba-verao-aprox1/static/js/2.6617b313.chunk.js.map",
+    "index.html": "/samba-verao-aprox1/index.html",
+    "precache-manifest.556b28951e01c292b340a91ef01a590a.js": "/samba-verao-aprox1/precache-manifest.556b28951e01c292b340a91ef01a590a.js",
+    "service-worker.js": "/samba-verao-aprox1/service-worker.js",
+    "static/css/main.f7a160da.chunk.css.map": "/samba-verao-aprox1/static/css/main.f7a160da.chunk.css.map",
+    "static/js/2.6617b313.chunk.js.LICENSE.txt": "/samba-verao-aprox1/static/js/2.6617b313.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9364c733.js",
+    "static/js/runtime-main.c0a5e01b.js",
     "static/js/2.6617b313.chunk.js",
     "static/css/main.f7a160da.chunk.css",
-    "static/js/main.a6845229.chunk.js"
+    "static/js/main.757c786a.chunk.js"
   ]
 }
